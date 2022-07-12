@@ -1,0 +1,40 @@
+.main_ser{
+   align-items: center;
+}
+.in_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img_div{
+margin: 2rem;
+padding: 1rem;
+
+}
+#search_bar{
+    height: 2rem;
+    width: 35rem;
+    margin: 5px;
+    background-color: transparent;
+   border: none;
+   outline: none;
+   resize: none;
+    
+}
+.input_div{
+    height: 3rem;
+    width: 40rem;
+    padding: 2px;
+    border: black solid 1px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.img_div img{
+ height: 5rem;
+ width: 18rem;
+}
+.icon1{
+    padding: 1rem;
+}
